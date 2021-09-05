@@ -1,0 +1,47 @@
+body {
+	background: url("https://img.freepik.com/free-vector/maths-chalkboard_23-2148175036.jpg?size=626&ext=jpg");
+	background-position: center;
+	background-size: contain;
+}
+
+.login_div1,
+.login_div2 {
+	color: rgb(52, 59, 48);
+	padding: 10px;
+	float: none;
+	width:auto;
+	border-radius: 15px;
+	font-family: 'Klee One', cursive;
+}
+
+
+#player1_name,
+#player2_name {
+	font-family: 'Klee One', cursive;
+	display: inline-block;
+	margin-left: 20px;
+}
+
+#word {
+	width: 60%;
+}
+
+#word_display {
+	letter-spacing: 5px;
+}
+
+#output {
+	background: rgb(247, 244, 244);
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
+#body{
+	margin-top:160px;
+	width:60%;
+	height:auto;
+	background-color: rgba(133, 132, 132, 0.952);
+	border-radius: 40px;
+}
